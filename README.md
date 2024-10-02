@@ -58,7 +58,10 @@ group by
    sto.store_name,
    concat(sta.first_name, ' ' ,sta.last_name)
 ````
+
 ## Interpret results(Pivot Charts)
+
+- Executive Dashboard
 
 
 
