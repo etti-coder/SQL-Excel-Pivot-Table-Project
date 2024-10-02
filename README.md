@@ -1,14 +1,26 @@
 # Bikestores_SQL-Excel-Project
 Sql used for the analysis and excel used for the visualisation
 
-## Project Objecticves and goals
+## Table of Content
+[Project Objectives and goals](#project-objectives-and-goals)
+
+[Collect and Understand Data](#collect-and-understand-data)
+
+[Clean and Transform Dataset](#clean-and-transform-dataset)
+
+[Analyse Data](#analyse-data)
+
+[Interpret Results](#interpret-results)
+
+
+## Project Objectives and goals
 - To know the sales activities and trends for 2016-2018
 - As per reveneue per region
 - Per store
 - Per product category and brand
 - Top ten costomers and sales reps for same period
 
-## Collect and understand data
+## Collect and Understand Data
 
 - Relational database(SQL)
 
@@ -59,7 +71,7 @@ group by
    concat(sta.first_name, ' ' ,sta.last_name)
 ````
 
-## Interpret results(Pivot Charts)
+## Interpret results
 
 - Executive Dashboard
 
