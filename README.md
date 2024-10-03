@@ -75,4 +75,4 @@ group by
 
 - Executive Dashboard
 
-[Dataset Overview and Making a Pivot Table.pdf](https://github.com/user-attachments/files/17246557/Dataset.Overview.and.Making.a.Pivot.Table.pdf)
+[BikeStores1 pivot table August.xlsx](https://github.com/user-attachments/files/17246601/BikeStores1.pivot.table.August.xlsx)
